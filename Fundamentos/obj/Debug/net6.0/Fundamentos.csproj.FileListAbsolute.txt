@@ -1,0 +1,14 @@
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+C:\Estudos\Dev\GitHub\Bootcamp WEX - Desenvolvimento Csharp\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
