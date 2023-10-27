@@ -2,14 +2,75 @@
 using System.Security.Principal;
 using Fundamentos.Models;
 
+
+
+string opcao;
+
+while(true)
+{
+    Console.WriteLine("Digite uma opção:");
+    Console.WriteLine("1 - Cadastrar cliente");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Apagar cliente");
+    Console.WriteLine("4 - Encerrar");
+
+    opcao = Console.ReadLine();
+
+    switch(opcao)
+    {
+        case "1":
+                Console.WriteLine("Cadastro de cliente");
+                break;
+        case "2":
+                Console.WriteLine("Buscar de cliente");
+                break;
+        case "3":
+                Console.WriteLine("Apagar cliente");
+                break;
+        case "4":
+                Console.WriteLine("Encerrar");
+                Environment.Exit(0);
+                break;
+        default:
+                Console.WriteLine("Opção inválida");
+                break;
+
+
+    }
+
+}
+
+
+
+
+
+
+/*
+int soma = 0, numero = 0;
+
+do
+{
+    Console.WriteLine("Digite um numero");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    soma += numero;
+
+} while(numero !=0);
+
+Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+
+*/
+
+
+/*
 Calculadora calc = new Calculadora();
-
-
 
 calc.Somar(10, 5);
 calc.Multiplicar(100, 65);
 calc.Dividir(350, 2);
 calc.Subtrair(50, 25);
+
+*/
 
 /*
 
