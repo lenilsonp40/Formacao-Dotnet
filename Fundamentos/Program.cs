@@ -4,6 +4,11 @@ using Fundamentos.Models;
 
 
 
+
+
+
+
+/*
 string opcao;
 
 while(true)
@@ -39,11 +44,7 @@ while(true)
     }
 
 }
-
-
-
-
-
+*/
 
 /*
 int soma = 0, numero = 0;
