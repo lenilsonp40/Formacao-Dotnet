@@ -31,6 +31,7 @@ namespace projeto01.Models
             foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
+                
             }
         }
     }
