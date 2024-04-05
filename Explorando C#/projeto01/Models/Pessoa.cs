@@ -17,4 +17,6 @@ namespace projeto01.Models
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");                        
         }
     }
+
+    
 }

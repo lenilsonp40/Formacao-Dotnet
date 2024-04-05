@@ -2,7 +2,20 @@
 using System.Globalization;
 
 
+Queue<int> fila = new Queue<int>();
 
+fila.Enqueue(2);
+fila.Enqueue(4);
+
+foreach(int item in fila)
+{
+    Console.WriteLine(item);
+}
+
+int idade = 20;
+int altura = 30;
+
+Console.WriteLine("Ola mundo " + idade + altura);
 
 
 // parei validaçoes get e set
