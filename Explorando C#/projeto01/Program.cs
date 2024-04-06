@@ -1,21 +1,31 @@
 ﻿using projeto01.Models;
 using System.Globalization;
 
+// tupla
+(int Id, string Nome, string Sobrenome, decimal Altura) dados = (1, "Lenilson", "Soares", 1.71m);
 
-Queue<int> fila = new Queue<int>();
+Console.WriteLine($"Id: {dados.Id}");
+Console.WriteLine($"Nome: {dados.Nome}");
+Console.WriteLine($"Sobrenome: {dados.Sobrenome}");
+Console.WriteLine($"Altura: {dados.Altura}");
 
-fila.Enqueue(2);
-fila.Enqueue(4);
 
-foreach(int item in fila)
-{
-    Console.WriteLine(item);
-}
 
-int idade = 20;
-int altura = 30;
 
-Console.WriteLine("Ola mundo " + idade + altura);
+// Queue<int> fila = new Queue<int>();
+
+// fila.Enqueue(2);
+// fila.Enqueue(4);
+
+// foreach(int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+// int idade = 20;
+// int altura = 30;
+
+// Console.WriteLine("Ola mundo " + idade + altura);
 
 
 // parei validaçoes get e set
