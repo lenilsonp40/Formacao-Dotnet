@@ -1,13 +1,45 @@
 ﻿using projeto01.Models;
 using System.Globalization;
 
-// tupla
-(int Id, string Nome, string Sobrenome, decimal Altura) dados = (1, "Lenilson", "Soares", 1.71m);
 
-Console.WriteLine($"Id: {dados.Id}");
-Console.WriteLine($"Nome: {dados.Nome}");
-Console.WriteLine($"Sobrenome: {dados.Sobrenome}");
-Console.WriteLine($"Altura: {dados.Altura}");
+
+
+
+
+
+// // if ternário
+
+// int numero = 20; 
+// bool ehPar = true;
+
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"o número {numero} é " + (ehPar ? "par" : "ímpar"));
+
+
+
+// // if(numero % 2 == 0)
+// // {
+// //     Console.WriteLine($"O número {numero} é par!");
+// // }
+// // else
+// // {
+// //         Console.WriteLine($"O número {numero} é impar!");
+// // }
+
+// // if ternário
+
+
+
+
+
+
+// // tupla
+// (int Id, string Nome, string Sobrenome, decimal Altura) dados = (1, "Lenilson", "Soares", 1.71m);
+
+// Console.WriteLine($"Id: {dados.Id}");
+// Console.WriteLine($"Nome: {dados.Nome}");
+// Console.WriteLine($"Sobrenome: {dados.Sobrenome}");
+// Console.WriteLine($"Altura: {dados.Altura}");
 
 
 
