@@ -7,26 +7,26 @@ using System.Globalization;
 
 
 
-// // if ternário
+// if ternário
 
-// int numero = 20; 
-// bool ehPar = true;
+int numero = 20; 
+bool ehPar = true;
 
-// ehPar = numero % 2 == 0;
-// Console.WriteLine($"o número {numero} é " + (ehPar ? "par" : "ímpar"));
+ehPar = numero % 2 == 0;
+Console.WriteLine($"o número {numero} é " + (ehPar ? "par" : "ímpar"));
 
 
 
-// // if(numero % 2 == 0)
-// // {
-// //     Console.WriteLine($"O número {numero} é par!");
-// // }
-// // else
-// // {
-// //         Console.WriteLine($"O número {numero} é impar!");
-// // }
+// if(numero % 2 == 0)
+// {
+//     Console.WriteLine($"O número {numero} é par!");
+// }
+// else
+// {
+//         Console.WriteLine($"O número {numero} é impar!");
+// }
 
-// // if ternário
+// if ternário
 
 
 
